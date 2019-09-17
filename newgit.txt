@@ -1,2 +1,4 @@
 this is a new git
 git is the best tool
+
+this is a message
